@@ -1,6 +1,9 @@
 /* Bodytext font */
 /* Font for headings */
 /* Text colors */
+img{
+max-width: 100%;
+}
 article {
   background: #fff;
   padding: 60px 0; }
